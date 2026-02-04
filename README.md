@@ -32,7 +32,7 @@ The server handles orders, generates delivery time, and tracks the status of pen
 ```bash
 git clone https://github.com/aleksandrajjovanovic/SliceItUp.git
 
-3. Install dependencies:
+2. Install dependencies:
 pip install -r requirements.txt
 
 3.Run the server and client:
@@ -40,4 +40,3 @@ pip install -r requirements.txt
 python server.py
 # Run client
 python client.py
-```bash
