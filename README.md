@@ -29,17 +29,12 @@ The server handles orders, generates delivery time, and tracks the status of pen
 ## Installation
 
 1. Clone the repository:
-```bash
 git clone https://github.com/aleksandrajjovanovic/SliceItUp.git
 
 2. Install dependencies:
-
-```bash
 pip install -r requirements.txt
 
 3.Run the server and client:
-
-```bash
 # Run server
 python server.py
 # Run client
