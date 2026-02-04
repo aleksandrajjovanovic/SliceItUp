@@ -40,3 +40,4 @@ pip install -r requirements.txt
 python server.py
 # Run client
 python client.py
+```bash
