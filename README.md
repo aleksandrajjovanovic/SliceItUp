@@ -47,6 +47,8 @@ python server.py
 # Run client
 python client.py
 
+---
+
 ###Technologies
 Python
 Tkinter for GUI
