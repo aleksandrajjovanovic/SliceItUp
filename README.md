@@ -31,3 +31,33 @@ The server handles orders, generates delivery time, and tracks the status of pen
 1. Clone the repository:
 ```bash
 git clone https://github.com/aleksandrajjovanovic/SliceItUp.git
+Install dependencies:
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+3.Run the server and client:
+Run the server and client:
+
+```bash
+# Run server
+python server.py
+
+# Run client
+python client.py
+
+###Technologies
+Python
+Tkinter for GUI
+Socket programming for client-server communication
+Threading for real-time order updates
+
+<img width="1208" height="926" alt="image" src="https://github.com/user-attachments/assets/4ae86cf5-ded8-4dde-bbc9-dfb162d4e49f" />
+
+### Author
+aleksandrajjovanovic
+
+### Notes
+This project demonstrates client-server programming, GUI design, and threading in Python.
+Can be extended with a database or more advanced features in the future.
