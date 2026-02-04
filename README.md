@@ -42,22 +42,3 @@ pip install -r requirements.txt
 python server.py
 # Run client
 python client.py
-
----
-
----
-
-###Technologies
-Python
-Tkinter for GUI
-Socket programming for client-server communication
-Threading for real-time order updates
-
-<img width="1208" height="926" alt="image" src="https://github.com/user-attachments/assets/4ae86cf5-ded8-4dde-bbc9-dfb162d4e49f" />
-
-### Author
-aleksandrajjovanovic
-
-### Notes
-This project demonstrates client-server programming, GUI design, and threading in Python.
-Can be extended with a database or more advanced features in the future.
